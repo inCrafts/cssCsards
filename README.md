@@ -1,1 +1,1 @@
-# cssCsards
+# detailedCards
