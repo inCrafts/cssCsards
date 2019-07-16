@@ -35,6 +35,16 @@ input {
 	opacity: 0;
 }
 
+input:hover {
+	background: #E57E3D;
+	cursor: pointer;
+}
+
+input:hover ~ .toggle {
+	background: #E57E3D;
+	color: #ffffff;
+}
+
 .toggle {
 	pointer-events: none;
 	border-radius: 50%;
