@@ -43,11 +43,11 @@ input {
 	text-align: center;
 	line-height: 50px;
 	font-size: 36px;
-	box-shadow: 0 0 0 0px #9c27b0;
+	box-shadow: 0 0 0 0px #E57E3D;
 }
 
 input:checked ~ .toggle {
-	box-shadow: 0 0 0 500px #9c27b0;
+	box-shadow: 0 0 0 500px #E57E3D;
 	-webkit-transform: rotate(225deg);
 	-moz-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
