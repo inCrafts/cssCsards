@@ -87,6 +87,7 @@ input:checked ~ .details {
 }
 
 .details h2 {
+	text-transform: uppercase;
 	margin-bottom: 5px;
 	color: #ffffff;
 }
